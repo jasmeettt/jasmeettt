@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Who am I?<br>My name is Jasmeet. I am a front-end web designer and developer.<br>I use Figma, Javascipt, React, Tailwind, bootstrap, Nodejs, <br>and I am based in Mumbai, India.<br>
+Hi there 👋<br>Who am I?<br>My name is Jasmeet. I am a front-end web designer and developer.<br>I use Figma, Javascipt, React, CSS Frameworks to build projects <br>Currently I'm learning React(for developing) and Adobe(for Designing)<br>  and I am based in Mumbai, India.<br>
 
 
 ## 🌐 Socials:

@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👨‍💻 Building web apps, AI experiments & Web3 projects<br><br>🚀 Always learning, leveling up.<br><br>🌐 Sharing my journey, projects & code along the way</p>
+<p align="left">👨‍💻 Building web apps, AI experiments & Web3 projects<br><br>🚀 Always learning, leveling up<br><br>🌐 Sharing my journey, projects & code along the way</p>
 
 ###
 

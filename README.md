@@ -1,35 +1,24 @@
-# Hi, I'm Jasmeet 👋
+<h2>Hi, I'm Jasmeet Singh Salhotra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="42" alt="Waving cat" /></h2>
 
-I build for the web and learn by making.
+<p><em>Building for the web, learning by making.</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmeet04/)
-[![X](https://img.shields.io/badge/X-Follow-111111?style=flat&logo=x&logoColor=white)](https://x.com/JasmeetSalhotra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmeet04/)
+[![X](https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/JasmeetSalhotra)
+[![GitHub followers](https://img.shields.io/github/followers/jasmeettt?label=Follow&style=social)](https://github.com/jasmeettt)
 
----
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" alt="" /> A little more about me...
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
-### 🧑‍💻 A little more about me
-
-<pre><code class="language-javascript">const jasmeet = {
+```javascript
+const jasmeet = {
   code: ["JavaScript", "Python", "TypeScript"],
-  web: ["React", "Node.js", "Express"],
+  tools: ["React", "Node.js", "Express", "Git"],
+  creative: ["Photoshop", "Illustrator", "Figma", "Canva", "Blender"],
   exploring: ["SQL", "relational databases", "Generative AI"],
-  creative: [
-    "Figma", "Photoshop", "Illustrator",
-    "Canva", "Blender"
-  ],
   setup: "Omarchy on Arch Linux",
-};</code></pre>
+};
+```
 
-</td>
-<td width="30%" align="center" valign="middle">
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="42" alt="" />
+<em>I enjoy making things and connecting with people. Feel free to say hi!</em>
 
 ---
-
-<p><em>Always happy to connect with people who love making things.</em></p>

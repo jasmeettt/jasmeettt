@@ -4,7 +4,6 @@ I build for the web and learn by making.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmeet04/)
 [![X](https://img.shields.io/badge/X-Follow-111111?style=flat&logo=x&logoColor=white)](https://x.com/JasmeetSalhotra)
-[![GitHub followers](https://img.shields.io/github/followers/jasmeettt?style=social)](https://github.com/jasmeettt)
 
 ---
 
@@ -27,9 +26,6 @@ I build for the web and learn by making.
 
 </td>
 <td width="30%" align="center" valign="middle">
-
-<img src="https://avatars.githubusercontent.com/u/95878924?v=4" width="190" alt="Jasmeet's GitHub avatar" />
-
 </td>
 </tr>
 </table>

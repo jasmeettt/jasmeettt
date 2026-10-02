@@ -16,13 +16,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" height="38" alt="Express" title="Express" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38" alt="Figma" title="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="38" height="38" alt="Blender" title="Blender" />
 </p>
+<sub>JavaScript · Python · TypeScript · React · Node.js · Express</sub>
 
-<sub>JavaScript · Python · TypeScript · React · Node.js · Express · Figma · Blender</sub>
+<br /><br />
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="34" height="34" alt="Canva" title="Canva" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="34" height="34" alt="Blender" title="Blender" />
+</p>
+<sub>Figma · Photoshop · Illustrator · Canva · Blender</sub>
 
 <br /><br />
 
@@ -38,11 +44,11 @@
 
 <br />
 
-<sub>IN PROGRESS</sub><br />
-Problem-solving &nbsp;·&nbsp; SQL + relational databases &nbsp;·&nbsp; Generative AI
+<sub>CURRENT FOCUS</sub><br />
+Problem-solving &nbsp;·&nbsp; SQL & relational databases &nbsp;·&nbsp; Generative AI
 
 <br /><br />
 
-<sub>OMARCHY · ARCH LINUX</sub>
+<sub>OMARCHY ON ARCH LINUX</sub>
 
 </div>

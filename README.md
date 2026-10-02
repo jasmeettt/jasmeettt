@@ -17,6 +17,6 @@ const jasmeet = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="42" alt="" /><em>I enjoy making things and connecting with people. Feel free to say hi!</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="42" alt="" />  <em>I enjoy making things and connecting with people. Feel free to say hi!</em>
 
 ---

@@ -1,78 +1,28 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm Jasmeet 👋
 
-###
+I build web projects with JavaScript and TypeScript, from focused interface experiments to full-stack applications. I’m currently exploring React and growing my work across frontend and backend development.
 
-<div align="center">
-  <a href="https://x.com/JasmeetSalhotra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jasmeet04/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="jasmeetsalhotrawork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/jasmeet04/) · [X](https://x.com/JasmeetSalhotra)
 
-###
+## Featured projects
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jasmeettt.jasmeettt&"  />
-</div>
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Simplify UI](https://github.com/jasmeettt/simplify-ui) | A Notion-inspired productivity dashboard with a calm, content-first interface. | HTML, SCSS, JavaScript |
+| [Guess the Subreddit](https://github.com/jasmeettt/guess-subdaily) | A Reddit Devvit game that challenges players to identify a subreddit from a post. | React, TypeScript, Tailwind CSS |
+| [QuickRail Chatbot](https://github.com/jasmeettt/Chatbot) | A train information and booking prototype with a conversational interface. | Python, Streamlit, Flask |
+| [HTML, CSS & JS Projects](https://github.com/jasmeettt/HTML-CSS-JS-PROJECTS) | A collection of small interactive web projects built with core web technologies. | HTML, CSS, JavaScript |
 
-###
+## What I work with
 
-<h1 align="center">Willkommen!🙌</h1>
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** HTML, CSS, SCSS, Tailwind CSS, React  
+**Backend and tools:** Node.js, Express, Flask, Git
 
-###
+## Currently learning
 
-<h3 align="left">👩‍💻  About Me</h3>
+React patterns, TypeScript, and building complete products from interface to backend.
 
-###
+---
 
-<p align="left">👨‍💻 Building web apps, AI experiments & Web3 projects<br><br>🚀 Always learning, leveling up<br><br>🌐 Sharing my journey, projects & code along the way</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<h3 align="left">Learning...</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
+Feel free to explore the repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/jasmeet04/).

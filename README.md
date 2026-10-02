@@ -1,28 +1,20 @@
-# Hi, I'm Jasmeet 👋
+<div align="center">
 
-I build web projects with JavaScript and TypeScript, from focused interface experiments to full-stack applications. I’m currently exploring React and growing my work across frontend and backend development.
+# JASMEET SINGH SALHOTRA
 
-[LinkedIn](https://www.linkedin.com/in/jasmeet04/) · [X](https://x.com/JasmeetSalhotra)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+for+the+web;Learning+by+making;JavaScript+%7C+Python+%7C+TypeScript" alt="Building for the web · Learning by making · JavaScript, Python, TypeScript" />
 
-## Featured projects
+[LinkedIn](https://www.linkedin.com/in/jasmeet04/) · [GitHub](https://github.com/jasmeettt) · [X](https://x.com/JasmeetSalhotra)
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [Simplify UI](https://github.com/jasmeettt/simplify-ui) | A Notion-inspired productivity dashboard with a calm, content-first interface. | HTML, SCSS, JavaScript |
-| [Guess the Subreddit](https://github.com/jasmeettt/guess-subdaily) | A Reddit Devvit game that challenges players to identify a subreddit from a post. | React, TypeScript, Tailwind CSS |
-| [QuickRail Chatbot](https://github.com/jasmeettt/Chatbot) | A train information and booking prototype with a conversational interface. | Python, Streamlit, Flask |
-| [HTML, CSS & JS Projects](https://github.com/jasmeettt/HTML-CSS-JS-PROJECTS) | A collection of small interactive web projects built with core web technologies. | HTML, CSS, JavaScript |
-
-## What I work with
-
-**Languages:** JavaScript, TypeScript, Python  
-**Frontend:** HTML, CSS, SCSS, Tailwind CSS, React  
-**Backend and tools:** Node.js, Express, Flask, Git
-
-## Currently learning
-
-React patterns, TypeScript, and building complete products from interface to backend.
+</div>
 
 ---
 
-Feel free to explore the repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/jasmeet04/).
+**Working with**  
+JavaScript · Python · TypeScript · Git
+
+**Exploring**  
+React · Node.js / Express · DSA · SQL · Generative AI
+
+**Creative tools**  
+Figma · Photoshop · Illustrator · Canva · Blender

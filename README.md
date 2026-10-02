@@ -1,54 +1,39 @@
-<div align="center">
+# Hi, I'm Jasmeet 👋
 
-<img src="https://raw.githubusercontent.com/jasmeettt/jasmeettt/main/assets/axionmorph-lines.svg" width="100%" alt="Red and black geometric line art inspired by the Axionmorph wallpaper" />
+I build for the web and learn by making.
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmeet04/)
+[![X](https://img.shields.io/badge/X-Follow-111111?style=flat&logo=x&logoColor=white)](https://x.com/JasmeetSalhotra)
+[![GitHub followers](https://img.shields.io/github/followers/jasmeettt?style=social)](https://github.com/jasmeettt)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" height="38" alt="Express" title="Express" />
-</p>
-<sub>JavaScript · Python · TypeScript · React · Node.js · Express</sub>
+---
 
-<br /><br />
+<table>
+<tr>
+<td width="70%" valign="top">
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="34" height="34" alt="Canva" title="Canva" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="34" height="34" alt="Blender" title="Blender" />
-</p>
-<sub>Figma · Photoshop · Illustrator · Canva · Blender</sub>
+### 🧑‍💻 A little more about me
 
-<br /><br />
+<pre><code class="language-javascript">const jasmeet = {
+  code: ["JavaScript", "Python", "TypeScript"],
+  web: ["React", "Node.js", "Express"],
+  exploring: ["SQL", "relational databases", "Generative AI"],
+  creative: [
+    "Figma", "Photoshop", "Illustrator",
+    "Canva", "Blender"
+  ],
+  setup: "Omarchy on Arch Linux",
+};</code></pre>
 
-<h1>Jasmeet Singh Salhotra</h1>
+</td>
+<td width="30%" align="center" valign="middle">
 
-<p><em>Building for the web. Learning by making.</em></p>
+<img src="https://avatars.githubusercontent.com/u/95878924?v=4" width="190" alt="Jasmeet's GitHub avatar" />
 
-<p>
-  <a href="https://www.linkedin.com/in/jasmeet04/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/JasmeetSalhotra">X</a>
-</p>
+</td>
+</tr>
+</table>
 
-<br />
+---
 
-<sub>CURRENT FOCUS</sub><br />
-Problem-solving &nbsp;·&nbsp; SQL & relational databases &nbsp;·&nbsp; Generative AI
-
-<br /><br />
-
-<sub>OMARCHY ON ARCH LINUX</sub>
-
-</div>
+<p><em>Always happy to connect with people who love making things.</em></p>
